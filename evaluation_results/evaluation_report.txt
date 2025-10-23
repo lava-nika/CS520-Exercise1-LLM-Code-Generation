@@ -1,0 +1,227 @@
+================================================================================
+PASS@K EVALUATION REPORT
+================================================================================
+
+PASS@K SUMMARY
+----------------------------------------
+            Model  Strategy  Pass@1  Pass@2  Pass@3
+ claude sonnet4.5       tds 100.00% 100.00% 100.00%
+ claude sonnet4.5 selfdebug 100.00% 100.00% 100.00%
+ claude sonnet4.5       cot 100.00% 100.00% 100.00%
+             gpt5       cot 100.00% 100.00% 100.00%
+             gpt5       tds  90.00%  90.00%  90.00%
+             gpt5 selfdebug  90.00%  90.00% 100.00%
+
+DETAILED RESULTS BY PROBLEM
+----------------------------------------
+
+Model:  claude sonnet4.5
+------------------------------
+
+  problem1 (HumanEval/0)
+    Chain-of-Thought:
+    ✓ claude_problem1_cot_sample2
+    ✓ claude_problem1_cot_sample3
+    ✓ claude_problem1_cot_sample1
+    Self-Debug:
+    ✓ claude_problem1_selfdebug_sample1
+    ✓ claude_problem1_selfdebug_sample3
+    ✓ claude_problem1_selfdebug_sample2
+
+  problem6 (HumanEval/61)
+    Chain-of-Thought:
+    ✓ claude_problem6_cot_sample2
+    ✓ claude_problem6_cot_sample3
+    ✓ claude_problem6_cot_sample1
+    Self-Debug:
+    ✓ claude_problem6_selfdebug_sample2
+    ✓ claude_problem6_selfdebug_sample3
+    ✓ claude_problem6_selfdebug_sample1
+
+  problem8 (HumanEval/32)
+    Chain-of-Thought:
+    ✓ claude_problem8_cot_sample3
+    ✓ claude_problem8_cot_sample2
+    ✓ claude_problem8_cot_sample1
+    Self-Debug:
+    ✓ claude_problem8_selfdebug_sample2
+    ✓ claude_problem8_selfdebug_sample3
+    ✗ claude_problem8_selfdebug_sample1 (Traceback (most recent call last):
+  File "/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpevi9o...)
+
+  problem9 (HumanEval/105)
+    Chain-of-Thought:
+    ✓ claude_problem9_cot_sample2
+    ✓ claude_problem9_cot_sample3
+    ✓ claude_problem9_cot_sample1
+    Self-Debug:
+    ✓ claude_problem9_selfdebug_sample2
+    ✓ claude_problem9_selfdebug_sample3
+    ✓ claude_problem9_selfdebug_sample1
+
+  problem7 (HumanEval/108)
+    Chain-of-Thought:
+    ✓ claude_problem7_cot_sample3
+    ✓ claude_problem7_cot_sample2
+    ✓ claude_problem7_cot_sample1
+    Self-Debug:
+    ✓ claude_problem7_selfdebug_sample2
+    ✓ claude_problem7_selfdebug_sample3
+    ✓ claude_problem7_selfdebug_sample1
+
+  problem5 (HumanEval/54)
+    Chain-of-Thought:
+    ✓ claude_problem5_cot_sample2
+    ✓ claude_problem5_cot_sample3
+    ✓ claude_problem5_cot_sample1
+    Self-Debug:
+    ✓ claude_problem5_selfdebug_sample1
+    ✓ claude_problem5_selfdebug_sample3
+    ✓ claude_problem5_selfdebug_sample2
+
+  problem2 (HumanEval/1)
+    Chain-of-Thought:
+    ✓ claude_problem2_cot_sample2
+    ✓ claude_problem2_cot_sample3
+    ✓ claude_problem2_cot_sample1
+    Self-Debug:
+    ✓ claude_problem2_selfdebug_sample2
+    ✓ claude_problem2_selfdebug_sample3
+    ✓ claude_problem2_selfdebug_sample1
+
+  problem10 (HumanEval/163)
+    Chain-of-Thought:
+    ✓ claude_problem10_cot_sample3
+    ✓ claude_problem10_cot_sample2
+    ✓ claude_problem10_cot_sample1
+    Self-Debug:
+    ✓ claude_problem10_selfdebug_sample1
+    ✓ claude_problem10_selfdebug_sample2
+    ✓ claude_problem10_selfdebug_sample3
+
+  problem3 (HumanEval/31)
+    Chain-of-Thought:
+    ✓ claude_problem3_cot_sample3
+    ✓ claude_problem3_cot_sample2
+    ✓ claude_problem3_cot_sample1
+    Self-Debug:
+    ✓ claude_problem3_selfdebug_sample2
+    ✓ claude_problem3_selfdebug_sample3
+    ✓ claude_problem3_selfdebug_sample1
+
+  problem4 (HumanEval/10)
+    Chain-of-Thought:
+    ✓ claude_problem4_cot_sample3
+    ✓ claude_problem4_cot_sample2
+    ✓ claude_problem4_cot_sample1
+    Self-Debug:
+    ✓ claude_problem4_selfdebug_sample1
+    ✓ claude_problem4_selfdebug_sample3
+    ✓ claude_problem4_selfdebug_sample2
+
+Model: gpt5
+------------------------------
+
+  problem1 (HumanEval/0)
+    Chain-of-Thought:
+    ✓ gpt5_problem1_cot_sample1
+    ✓ gpt5_problem1_cot_sample3
+    ✓ gpt5_problem1_cot_sample2
+    Self-Debug:
+    ✗ gpt5_problem1_selfdebug_sample3 (Traceback (most recent call last):
+  File "/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmp5ktsu...)
+    ✗ gpt5_problem1_selfdebug_sample2 (Traceback (most recent call last):
+  File "/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpf2hl1...)
+    ✓ gpt5_problem1_selfdebug_sample1
+
+  problem6 (HumanEval/61)
+    Chain-of-Thought:
+    ✓ gpt5_problem6_cot_sample1
+    ✓ gpt5_problem6_cot_sample3
+    ✓ gpt5_problem6_cot_sample2
+    Self-Debug:
+    ✓ gpt5_problem6_selfdebug_sample1
+    ✓ gpt5_problem6_selfdebug_sample2
+    ✓ gpt5_problem6_selfdebug_sample3
+
+  problem8 (HumanEval/32)
+    Chain-of-Thought:
+    ✓ gpt5_problem8_cot_sample1
+    ✓ gpt5_problem8_cot_sample2
+    ✗ gpt5_problem8_cot_sample3 (Traceback (most recent call last):
+  File "/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpyau4m...)
+    Self-Debug:
+    ✓ gpt5_problem8_selfdebug_sample1
+    ✓ gpt5_problem8_selfdebug_sample2
+    ✗ gpt5_problem8_selfdebug_sample3 (Traceback (most recent call last):
+  File "/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmphhb5s...)
+
+  problem9 (HumanEval/105)
+    Chain-of-Thought:
+    ✓ gpt5_problem9_cot_sample1
+    ✓ gpt5_problem9_cot_sample3
+    ✓ gpt5_problem9_cot_sample2
+    Self-Debug:
+    ✓ gpt5_problem9_selfdebug_sample1
+    ✓ gpt5_problem9_selfdebug_sample2
+    ✓ gpt5_problem9_selfdebug_sample3
+
+  problem7 (HumanEval/108)
+    Chain-of-Thought:
+    ✓ gpt5_problem7_cot_sample1
+    ✓ gpt5_problem7_cot_sample2
+    ✓ gpt5_problem7_cot_sample3
+    Self-Debug:
+    ✓ gpt5_problem7_selfdebug_sample1
+    ✓ gpt5_problem7_selfdebug_sample2
+    ✓ gpt5_problem7_selfdebug_sample3
+
+  problem5 (HumanEval/54)
+    Chain-of-Thought:
+    ✓ gpt5_problem5_cot_sample1
+    ✓ gpt5_problem5_cot_sample3
+    ✓ gpt5_problem5_cot_sample2
+    Self-Debug:
+    ✓ gpt5_problem5_selfdebug_sample3
+    ✓ gpt5_problem5_selfdebug_sample2
+    ✓ gpt5_problem5_selfdebug_sample1
+
+  problem2 (HumanEval/1)
+    Chain-of-Thought:
+    ✓ gpt5_problem2_cot_sample1
+    ✓ gpt5_problem2_cot_sample3
+    ✓ gpt5_problem2_cot_sample2
+    Self-Debug:
+    ✓ gpt5_problem2_selfdebug_sample1
+    ✓ gpt5_problem2_selfdebug_sample2
+    ✓ gpt5_problem2_selfdebug_sample3
+
+  problem10 (HumanEval/163)
+    Chain-of-Thought:
+    ✓ gpt5_problem10_cot_sample3
+    ✓ gpt5_problem10_cot_sample2
+    ✓ gpt5_problem10_cot_sample1
+    Self-Debug:
+    ✓ gpt5_problem10_selfdebug_sample3
+    ✓ gpt5_problem10_selfdebug_sample2
+    ✓ gpt5_problem10_selfdebug_sample1
+
+  problem3 (HumanEval/31)
+    Chain-of-Thought:
+    ✓ gpt5_problem3_cot_sample1
+    ✓ gpt5_problem3_cot_sample2
+    ✓ gpt5_problem3_cot_sample3
+    Self-Debug:
+    ✓ gpt5_problem3_selfdebug_sample1
+    ✓ gpt5_problem3_selfdebug_sample2
+    ✓ gpt5_problem3_selfdebug_sample3
+
+  problem4 (HumanEval/10)
+    Chain-of-Thought:
+    ✓ gpt5_problem4_cot_sample1
+    ✓ gpt5_problem4_cot_sample2
+    ✓ gpt5_problem4_cot_sample3
+    Self-Debug:
+    ✓ gpt5_problem4_selfdebug_sample3
+    ✓ gpt5_problem4_selfdebug_sample2
+    ✓ gpt5_problem4_selfdebug_sample1

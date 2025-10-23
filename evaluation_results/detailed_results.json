@@ -1,0 +1,1126 @@
+{
+  " claude sonnet4.5": {
+    "problem1": {
+      "claude_problem1_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_tds_sample3.py"
+      },
+      "claude_problem1_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_selfdebug_sample1.py"
+      },
+      "claude_problem1_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_cot_sample2.py"
+      },
+      "claude_problem1_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_cot_sample3.py"
+      },
+      "claude_problem1_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_tds_sample2.py"
+      },
+      "claude_problem1_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_selfdebug_sample3.py"
+      },
+      "claude_problem1_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_tds_sample1.py"
+      },
+      "claude_problem1_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_cot_sample1.py"
+      },
+      "claude_problem1_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem1/claude_problem1_selfdebug_sample2.py"
+      }
+    },
+    "problem6": {
+      "claude_problem6_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_cot_sample2.py"
+      },
+      "claude_problem6_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_tds_sample3.py"
+      },
+      "claude_problem6_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_tds_sample2.py"
+      },
+      "claude_problem6_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_cot_sample3.py"
+      },
+      "claude_problem6_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_selfdebug_sample2.py"
+      },
+      "claude_problem6_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_selfdebug_sample3.py"
+      },
+      "claude_problem6_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_selfdebug_sample1.py"
+      },
+      "claude_problem6_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_tds_sample1.py"
+      },
+      "claude_problem6_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem6/claude_problem6_cot_sample1.py"
+      }
+    },
+    "problem8": {
+      "claude_problem8_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_tds_sample2.py"
+      },
+      "claude_problem8_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_cot_sample3.py"
+      },
+      "claude_problem8_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_selfdebug_sample2.py"
+      },
+      "claude_problem8_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_cot_sample2.py"
+      },
+      "claude_problem8_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_selfdebug_sample3.py"
+      },
+      "claude_problem8_tds_sample3": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpoohchdc8.py\", line 65, in <module>\n    check(find_zero)\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpoohchdc8.py\", line 60, in check\n    assert math.fabs(poly(coeffs, solution)) < 1e-4\nAssertionError\n",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_tds_sample3.py"
+      },
+      "claude_problem8_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_cot_sample1.py"
+      },
+      "claude_problem8_tds_sample1": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpgcwte9xx.py\", line 54, in <module>\n    check(find_zero)\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpgcwte9xx.py\", line 49, in check\n    assert math.fabs(poly(coeffs, solution)) < 1e-4\nAssertionError\n",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_tds_sample1.py"
+      },
+      "claude_problem8_selfdebug_sample1": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpevi9oytx.py\", line 88, in <module>\n    check(find_zero)\n          ^^^^^^^^^\nNameError: name 'find_zero' is not defined\n",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem8/claude_problem8_selfdebug_sample1.py"
+      }
+    },
+    "problem9": {
+      "claude_problem9_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_tds_sample3.py"
+      },
+      "claude_problem9_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_cot_sample2.py"
+      },
+      "claude_problem9_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_cot_sample3.py"
+      },
+      "claude_problem9_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_tds_sample2.py"
+      },
+      "claude_problem9_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_selfdebug_sample2.py"
+      },
+      "claude_problem9_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_selfdebug_sample3.py"
+      },
+      "claude_problem9_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_selfdebug_sample1.py"
+      },
+      "claude_problem9_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_tds_sample1.py"
+      },
+      "claude_problem9_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem9/claude_problem9_cot_sample1.py"
+      }
+    },
+    "problem7": {
+      "claude_problem7_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_selfdebug_sample2.py"
+      },
+      "claude_problem7_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_cot_sample3.py"
+      },
+      "claude_problem7_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_tds_sample2.py"
+      },
+      "claude_problem7_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_tds_sample3.py"
+      },
+      "claude_problem7_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_selfdebug_sample3.py"
+      },
+      "claude_problem7_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_cot_sample2.py"
+      },
+      "claude_problem7_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_cot_sample1.py"
+      },
+      "claude_problem7_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_selfdebug_sample1.py"
+      },
+      "claude_problem7_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem7/claude_problem7_tds_sample1.py"
+      }
+    },
+    "problem5": {
+      "claude_problem5_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_cot_sample2.py"
+      },
+      "claude_problem5_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_selfdebug_sample1.py"
+      },
+      "claude_problem5_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_tds_sample3.py"
+      },
+      "claude_problem5_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_tds_sample2.py"
+      },
+      "claude_problem5_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_cot_sample3.py"
+      },
+      "claude_problem5_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_tds_sample1.py"
+      },
+      "claude_problem5_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_selfdebug_sample3.py"
+      },
+      "claude_problem5_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_cot_sample1.py"
+      },
+      "claude_problem5_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem5/claude_problem5_selfdebug_sample2.py"
+      }
+    },
+    "problem2": {
+      "claude_problem2_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_selfdebug_sample2.py"
+      },
+      "claude_problem2_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_selfdebug_sample3.py"
+      },
+      "claude_problem2_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_tds_sample3.py"
+      },
+      "claude_problem2_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_cot_sample2.py"
+      },
+      "claude_problem2_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_cot_sample3.py"
+      },
+      "claude_problem2_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_tds_sample2.py"
+      },
+      "claude_problem2_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_tds_sample1.py"
+      },
+      "claude_problem2_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_cot_sample1.py"
+      },
+      "claude_problem2_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem2/claude_problem2_selfdebug_sample1.py"
+      }
+    },
+    "problem10": {
+      "claude_problem10_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_cot_sample3.py"
+      },
+      "claude_problem10_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_tds_sample2.py"
+      },
+      "claude_problem10_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_selfdebug_sample1.py"
+      },
+      "claude_problem10_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_tds_sample3.py"
+      },
+      "claude_problem10_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_cot_sample2.py"
+      },
+      "claude_problem10_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_selfdebug_sample2.py"
+      },
+      "claude_problem10_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_cot_sample1.py"
+      },
+      "claude_problem10_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_selfdebug_sample3.py"
+      },
+      "claude_problem10_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem10/claude_problem10_tds_sample1.py"
+      }
+    },
+    "problem3": {
+      "claude_problem3_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_tds_sample2.py"
+      },
+      "claude_problem3_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_cot_sample3.py"
+      },
+      "claude_problem3_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_selfdebug_sample2.py"
+      },
+      "claude_problem3_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_cot_sample2.py"
+      },
+      "claude_problem3_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_selfdebug_sample3.py"
+      },
+      "claude_problem3_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_tds_sample3.py"
+      },
+      "claude_problem3_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_cot_sample1.py"
+      },
+      "claude_problem3_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_tds_sample1.py"
+      },
+      "claude_problem3_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem3/claude_problem3_selfdebug_sample1.py"
+      }
+    },
+    "problem4": {
+      "claude_problem4_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_selfdebug_sample1.py"
+      },
+      "claude_problem4_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_cot_sample3.py"
+      },
+      "claude_problem4_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_tds_sample2.py"
+      },
+      "claude_problem4_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_tds_sample3.py"
+      },
+      "claude_problem4_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_cot_sample2.py"
+      },
+      "claude_problem4_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_cot_sample1.py"
+      },
+      "claude_problem4_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_tds_sample1.py"
+      },
+      "claude_problem4_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_selfdebug_sample3.py"
+      },
+      "claude_problem4_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/ claude sonnet4.5/problem4/claude_problem4_selfdebug_sample2.py"
+      }
+    }
+  },
+  "gpt5": {
+    "problem1": {
+      "gpt5_problem1_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_cot_sample1.py"
+      },
+      "gpt5_problem1_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_tds_sample1.py"
+      },
+      "gpt5_problem1_selfdebug_sample3": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmp5ktsu0l_.py\", line 61, in <module>\n    check(has_close_elements)\n          ^^^^^^^^^^^^^^^^^^\nNameError: name 'has_close_elements' is not defined. Did you mean: 'has_close_elements_bucket'?\n",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_selfdebug_sample3.py"
+      },
+      "gpt5_problem1_selfdebug_sample2": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpf2hl1sna.py\", line 47, in <module>\n    check(has_close_elements)\n          ^^^^^^^^^^^^^^^^^^\nNameError: name 'has_close_elements' is not defined\n",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_selfdebug_sample2.py"
+      },
+      "gpt5_problem1_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_selfdebug_sample1.py"
+      },
+      "gpt5_problem1_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_cot_sample3.py"
+      },
+      "gpt5_problem1_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_tds_sample2.py"
+      },
+      "gpt5_problem1_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_tds_sample3.py"
+      },
+      "gpt5_problem1_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem1/gpt5_problem1_cot_sample2.py"
+      }
+    },
+    "problem6": {
+      "gpt5_problem6_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_cot_sample1.py"
+      },
+      "gpt5_problem6_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_selfdebug_sample1.py"
+      },
+      "gpt5_problem6_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_tds_sample1.py"
+      },
+      "gpt5_problem6_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_selfdebug_sample2.py"
+      },
+      "gpt5_problem6_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_tds_sample2.py"
+      },
+      "gpt5_problem6_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_cot_sample3.py"
+      },
+      "gpt5_problem6_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_cot_sample2.py"
+      },
+      "gpt5_problem6_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_selfdebug_sample3.py"
+      },
+      "gpt5_problem6_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem6/gpt5_problem6_tds_sample3.py"
+      }
+    },
+    "problem8": {
+      "gpt5_problem8_tds_sample1": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmp0zv4whzn.py\", line 121, in <module>\n    check(find_zero)\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmp0zv4whzn.py\", line 116, in check\n    assert math.fabs(poly(coeffs, solution)) < 1e-4\n                     ^^^^\nNameError: name 'poly' is not defined\n",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_tds_sample1.py"
+      },
+      "gpt5_problem8_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_cot_sample1.py"
+      },
+      "gpt5_problem8_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_selfdebug_sample1.py"
+      },
+      "gpt5_problem8_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_selfdebug_sample2.py"
+      },
+      "gpt5_problem8_selfdebug_sample3": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmphhb5se5k.py\", line 120, in <module>\n    check(find_zero)\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmphhb5se5k.py\", line 115, in check\n    assert math.fabs(poly(coeffs, solution)) < 1e-4\nAssertionError\n",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_selfdebug_sample3.py"
+      },
+      "gpt5_problem8_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_cot_sample2.py"
+      },
+      "gpt5_problem8_tds_sample3": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpm0g3ocz9.py\", line 94, in <module>\n    check(find_zero)\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpm0g3ocz9.py\", line 89, in check\n    assert math.fabs(poly(coeffs, solution)) < 1e-4\n                     ^^^^\nNameError: name 'poly' is not defined\n",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_tds_sample3.py"
+      },
+      "gpt5_problem8_tds_sample2": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpast52_b2.py\", line 109, in <module>\n    check(find_zero)\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpast52_b2.py\", line 104, in check\n    assert math.fabs(poly(coeffs, solution)) < 1e-4\n                     ^^^^\nNameError: name 'poly' is not defined\n",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_tds_sample2.py"
+      },
+      "gpt5_problem8_cot_sample3": {
+        "success": false,
+        "error": "Traceback (most recent call last):\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpyau4memv.py\", line 107, in <module>\n    check(find_zero)\n  File \"/var/folders/cl/qg92hlvd0w17b9m09_9dq1pc0000gn/T/tmpyau4memv.py\", line 102, in check\n    assert math.fabs(poly(coeffs, solution)) < 1e-4\nAssertionError\n",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem8/gpt5_problem8_cot_sample3.py"
+      }
+    },
+    "problem9": {
+      "gpt5_problem9_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_cot_sample1.py"
+      },
+      "gpt5_problem9_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_tds_sample1.py"
+      },
+      "gpt5_problem9_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_selfdebug_sample1.py"
+      },
+      "gpt5_problem9_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_cot_sample3.py"
+      },
+      "gpt5_problem9_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_tds_sample2.py"
+      },
+      "gpt5_problem9_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_selfdebug_sample2.py"
+      },
+      "gpt5_problem9_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_tds_sample3.py"
+      },
+      "gpt5_problem9_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_selfdebug_sample3.py"
+      },
+      "gpt5_problem9_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem9/gpt5_problem9_cot_sample2.py"
+      }
+    },
+    "problem7": {
+      "gpt5_problem7_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_tds_sample1.py"
+      },
+      "gpt5_problem7_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_cot_sample1.py"
+      },
+      "gpt5_problem7_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_selfdebug_sample1.py"
+      },
+      "gpt5_problem7_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_selfdebug_sample2.py"
+      },
+      "gpt5_problem7_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_selfdebug_sample3.py"
+      },
+      "gpt5_problem7_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_tds_sample3.py"
+      },
+      "gpt5_problem7_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_cot_sample2.py"
+      },
+      "gpt5_problem7_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_cot_sample3.py"
+      },
+      "gpt5_problem7_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem7/gpt5_problem7_tds_sample2.py"
+      }
+    },
+    "problem5": {
+      "gpt5_problem5_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_selfdebug_sample3.py"
+      },
+      "gpt5_problem5_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_selfdebug_sample2.py"
+      },
+      "gpt5_problem5_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_cot_sample1.py"
+      },
+      "gpt5_problem5_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_tds_sample1.py"
+      },
+      "gpt5_problem5_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_tds_sample2.py"
+      },
+      "gpt5_problem5_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_cot_sample3.py"
+      },
+      "gpt5_problem5_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_cot_sample2.py"
+      },
+      "gpt5_problem5_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_tds_sample3.py"
+      },
+      "gpt5_problem5_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem5/gpt5_problem5_selfdebug_sample1.py"
+      }
+    },
+    "problem2": {
+      "gpt5_problem2_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_cot_sample1.py"
+      },
+      "gpt5_problem2_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_tds_sample1.py"
+      },
+      "gpt5_problem2_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_selfdebug_sample1.py"
+      },
+      "gpt5_problem2_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_cot_sample3.py"
+      },
+      "gpt5_problem2_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_tds_sample2.py"
+      },
+      "gpt5_problem2_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_selfdebug_sample2.py"
+      },
+      "gpt5_problem2_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_tds_sample3.py"
+      },
+      "gpt5_problem2_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_selfdebug_sample3.py"
+      },
+      "gpt5_problem2_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem2/gpt5_problem2_cot_sample2.py"
+      }
+    },
+    "problem10": {
+      "gpt5_problem10_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_tds_sample2.py"
+      },
+      "gpt5_problem10_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_selfdebug_sample3.py"
+      },
+      "gpt5_problem10_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_cot_sample3.py"
+      },
+      "gpt5_problem10_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_cot_sample2.py"
+      },
+      "gpt5_problem10_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_tds_sample3.py"
+      },
+      "gpt5_problem10_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_selfdebug_sample2.py"
+      },
+      "gpt5_problem10_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_cot_sample1.py"
+      },
+      "gpt5_problem10_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_selfdebug_sample1.py"
+      },
+      "gpt5_problem10_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem10/gpt5_problem10_tds_sample1.py"
+      }
+    },
+    "problem3": {
+      "gpt5_problem3_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_selfdebug_sample1.py"
+      },
+      "gpt5_problem3_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_tds_sample1.py"
+      },
+      "gpt5_problem3_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_cot_sample1.py"
+      },
+      "gpt5_problem3_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_cot_sample2.py"
+      },
+      "gpt5_problem3_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_tds_sample3.py"
+      },
+      "gpt5_problem3_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_tds_sample2.py"
+      },
+      "gpt5_problem3_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_cot_sample3.py"
+      },
+      "gpt5_problem3_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_selfdebug_sample2.py"
+      },
+      "gpt5_problem3_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem3/gpt5_problem3_selfdebug_sample3.py"
+      }
+    },
+    "problem4": {
+      "gpt5_problem4_selfdebug_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_selfdebug_sample3.py"
+      },
+      "gpt5_problem4_tds_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_tds_sample1.py"
+      },
+      "gpt5_problem4_selfdebug_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_selfdebug_sample2.py"
+      },
+      "gpt5_problem4_cot_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_cot_sample1.py"
+      },
+      "gpt5_problem4_selfdebug_sample1": {
+        "success": true,
+        "error": "Success",
+        "strategy": "selfdebug",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_selfdebug_sample1.py"
+      },
+      "gpt5_problem4_tds_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_tds_sample3.py"
+      },
+      "gpt5_problem4_cot_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_cot_sample2.py"
+      },
+      "gpt5_problem4_cot_sample3": {
+        "success": true,
+        "error": "Success",
+        "strategy": "cot",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_cot_sample3.py"
+      },
+      "gpt5_problem4_tds_sample2": {
+        "success": true,
+        "error": "Success",
+        "strategy": "tds",
+        "file_path": "/Users/lavanika/Desktop/Fall 2025/520/assignments/Ex1/generated code/gpt5/problem4/gpt5_problem4_tds_sample2.py"
+      }
+    }
+  }
+}

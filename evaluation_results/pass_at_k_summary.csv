@@ -1,0 +1,7 @@
+Model,Strategy,Pass@1,Pass@2,Pass@3
+ claude sonnet4.5,tds,1.0,1.0,1.0
+ claude sonnet4.5,selfdebug,1.0,1.0,1.0
+ claude sonnet4.5,cot,1.0,1.0,1.0
+gpt5,cot,1.0,1.0,1.0
+gpt5,tds,0.9,0.9,0.9
+gpt5,selfdebug,0.9,0.9,1.0
