@@ -4,6 +4,8 @@
 
 **Course**: CS 520 - Fall 2025
 
+GitHub Repository Link: https://github.com/lava-nika/CS520-Exercise1-LLM-Code-Generation 
+
 ---
 
 In this report, I have evaluated 3 prompting strategies for LLM code generation across 2 LLMs (Claude Sonnet 4.5 and GPT-5) on 10 HumanEval programming problems. The three strategies evaluated are:
